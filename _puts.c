@@ -3,7 +3,7 @@
 /**
  * _puts - prints a string
  * new line, to stdout.
- * @string: input string
+ * @string: input string.
  * Return: count of string.
  */
 int _puts(char *string)
