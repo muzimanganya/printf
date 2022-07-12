@@ -3,7 +3,7 @@
 /**
  * printc - prints a char.
  * @pa: format of char.
- * @format: format
+ * @format: format.
  * Return: number char for printf.
  */
 int printc(char *format, va_list pa)
