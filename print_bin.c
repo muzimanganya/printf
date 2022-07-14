@@ -5,7 +5,7 @@
 void convert_and_print(unsigned int num, int *count);
 
 /**
- * print_bin - prints int to binary
+ * print_bin - prints int to binary.
  * b: pointer to unsigned int
  * Return: integer, number of characters printed
  */
