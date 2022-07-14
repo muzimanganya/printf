@@ -6,7 +6,7 @@
 /**
  * print_unsigned - prints unsigned
  * @d: unsigned to be printed
- * Return: size
+ * Return: size.
  */
 
 int print_unsigned(va_list u)
