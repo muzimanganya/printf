@@ -4,7 +4,7 @@
 #include "main.h"
 
 /**
- * print_bin - prints decimal
+ * print_bin - prints decimal.
  * @b: binary to be printed
  * Return: size
  */
