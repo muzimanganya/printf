@@ -4,7 +4,7 @@
 #include "main.h"
 
 /**
- * find_correct_func - finding the format for _printf
+ * find_correct_func - finding the format for _printf.
  * @format: format
  * Return: NULL
  */
