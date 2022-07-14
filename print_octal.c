@@ -6,7 +6,7 @@
 /**
  * print_octal - prints octal
  * @o: octal to be printed
- * Return: size
+ * Return: size.
  */
 
 int print_octal(va_list o)
