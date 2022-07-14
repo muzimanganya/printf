@@ -6,7 +6,7 @@
 /**
  * print_bin - prints decimal
  * @b: binary to be printed
- * Return: size
+ * Return: size.
  */
 
 int print_bin(va_list b)
