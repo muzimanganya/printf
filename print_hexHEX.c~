@@ -4,7 +4,7 @@
 #include "main.h"
 
 /**
- * print_hexHEX - prints lowercase or uppercase hexa
+ * print_hexHEX - prints lowercase or uppercase hexa.
  * @n: num to be printed
  * @c: case
  * Return: size
