@@ -6,7 +6,7 @@
 /**
  * print_rev - prints reverse of string
  * @r: string to be reversed
- * Return: size
+ * Return: size.
  */
 
 int print_rev(va_list r)
